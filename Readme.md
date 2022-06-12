@@ -14,7 +14,7 @@ set up testing tool run
 yarn add @types/jest jest ts-jest
 ```
 
-### run following command
+### Run following command
 ```
 yarn insatll
 ```

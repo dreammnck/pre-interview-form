@@ -16,7 +16,7 @@ yarn add @types/jest jest ts-jest
 
 ### Run following command
 ```
-yarn insatll
+yarn install
 ```
 
 ### For testing run

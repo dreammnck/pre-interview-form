@@ -1,5 +1,11 @@
 {
-  "scripts": {
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dreammnck/pre-interview-form.git",
+  "author": "dreammnck <nitchakran.c@gmail.com>",
+  "license": "MIT",
+    "scripts": {
     "test": "jest"
   },
   "dependencies": {
